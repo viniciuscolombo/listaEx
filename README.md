@@ -1,5 +1,3 @@
 # listaEx
 
-<hr>
-
 Hello World!!!
