@@ -1,3 +1,3 @@
 # listaEx
 
-Hello World!!!
+Lista de exercícios de programação de aplicativos
